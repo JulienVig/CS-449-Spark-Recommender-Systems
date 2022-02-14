@@ -1,4 +1,4 @@
-# CS-449-Spark-Recommender-Systems
+# Spark Recommender Systems
 
 This repository showcases the different milestones realized within the EPFL CS-449 Systems for Data Science class. Throughout the project, we implemented recommender systems of increasing complexity in Apache Spark and Scala. The project is organized as a succession of instructions to implement and argue within the milstone's report. Thus it is not a standalone project but a demonstration of how I can use Scala and Spark to handle Big Data.
 
